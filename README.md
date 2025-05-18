@@ -11,7 +11,7 @@ _BenSParX_: A Bengali Conversational Speech Corpus for Parkinson's Disease Detec
 ![image](https://github.com/user-attachments/assets/d1987d47-6275-4873-a032-1ac5d0d139bf)
 ![image](https://github.com/user-attachments/assets/44920fbd-073e-470d-a62a-1b700180be01)
 # SHAP Explainability of the Best Performing Selected Features
-![image](https://github.com/user-attachments/assets/303d14a5-4db5-4166-bde4-807b20345e77)
+![image](https://github.com/user-attachments/assets/755e7530-7557-4b0b-accf-7fe520842ca7)
 
 
 
