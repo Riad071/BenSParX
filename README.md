@@ -1,5 +1,17 @@
-# Project Name
-_BenSParX_: A Bengali Conversational Speech Corpus for Parkinson's Disease Detection using a Robust and Explainable Machine Learning Framework
+# Project
+## [**_BenSParX_: A Robust Explainable Machine Learning Framework for Parkinson's Disease Detection from Bengali Conversational Speech**](https://arxiv.org/abs/2505.12192)
+## Cite this paper as
+```bibtex
+@misc{bensparx2025,
+      title={BenSParX: A Robust Explainable Machine Learning Framework for Parkinson's Disease Detection from Bengali Conversational Speech}, 
+      author={Riad Hossain and Muhammad Ashad Kabir and Arat Ibne Golam Mowla and Animesh Chandra Roy and Ranjit Kumar Ghosh},
+      year={2025},
+      eprint={2505.12192},
+      archivePrefix={arXiv},
+      doi = {10.48550/arXiv.2505.12192},
+      url={https://arxiv.org/abs/2505.12192}
+}
+```
 # Overview
 ![image](https://github.com/user-attachments/assets/104e73c8-d963-4fed-8194-50df8c9a22ca)
 # Dataset Details
